@@ -10,23 +10,7 @@ Each folder in this repository corresponds to a different analysis or topic rela
 
 1. **Personal Running Performance Over Time**  
    Analysis tracking personal progress, including pace, distance, and other metrics.  
-   [Explore Here](https://github.com/username/running-analysis/personal-performance)
-
-2. **Weather Impact on Running Performance**  
-   Examines how different weather conditions affect race times and training performance.  
-   [Explore Here](https://github.com/username/running-analysis/weather-impact)
-
-3. **Race Analysis: Comparing Competitions**  
-   A detailed look at different races, comparing factors like elevation, course type, and overall performance.  
-   [Explore Here](https://github.com/username/running-analysis/race-comparison)
-
-4. **Weekly Training Patterns and Performance Correlation**  
-   Studies patterns in weekly mileage and intensity to understand how they relate to performance on race day.  
-   [Explore Here](https://github.com/username/running-analysis/weekly-patterns)
-
-5. **Running Gear and Injury Prevention**  
-   Analyzes the relationship between gear (shoes, apparel) and injuries, exploring ways to reduce risks.  
-   [Explore Here](https://github.com/username/running-analysis/injury-prevention)
+   [Explore Here](https://github.com/tsqdoq/random-running-data-analysis/personal-performance)
 
 ## Getting Started
 
